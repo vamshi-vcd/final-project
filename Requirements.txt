@@ -2,6 +2,6 @@ numpy
 pandas
 streamlit
 plotly
-seaborn
+seaborn==0.7.0
 matplotlib
 scikit-learn
