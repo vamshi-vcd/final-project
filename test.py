@@ -21,8 +21,8 @@ from sklearn.model_selection import train_test_split
 # In[4]:
 
 
-st.header("This is my flirts app")
-st.header("Build by vasmshi")
+st.header("This is my first app")
+st.header("Build by vamshi")
 
 
 # In[ ]:
