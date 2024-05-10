@@ -1,7 +1,8 @@
-numpy
-pandas
-streamlit
-plotly
-seaborn==0.7.0
-matplotlib
-scikit-learn
+wolframalpha
+randfacts
+pyjokes
+pyttsx3
+speech_recognition
+selenium
+random2
+math
