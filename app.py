@@ -3,8 +3,6 @@
 
 # In[1]:
 
-
-import wolframalpha
 #from YT_auto import music
 
 #from News import *
